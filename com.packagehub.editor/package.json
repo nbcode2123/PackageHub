@@ -1,0 +1,13 @@
+{
+  "name": "com.packagehub.editor",
+  "version": "0.4.0",
+  "displayName": "Package Hub",
+  "description": "Duyệt mọi repo GitHub và thư mục đồng bộ (Drive/Dropbox/OneDrive) để tìm gói UPM và .unitypackage, lọc theo tag, cài về hoặc đẩy gói mới lên.",
+  "unity": "2021.3",
+  "keywords": [
+    "package",
+    "github",
+    "library",
+    "unitypackage"
+  ]
+}
